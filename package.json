@@ -1,0 +1,27 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "note taker",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "bundle": "^2.1.0",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradenWelsh/note-taker.git"
+  },
+  "author": "Braden Welsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradenWelsh/note-taker/issues"
+  },
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "homepage": "https://github.com/BradenWelsh/note-taker#readme"
+}
